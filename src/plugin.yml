@@ -1,0 +1,5 @@
+name: MineRe
+version: 1.0
+author: EwokSithLord
+main: com.ewoksithlord.minere.MineRe
+api-version: 1.17
